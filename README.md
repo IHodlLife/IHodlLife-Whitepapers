@@ -9,22 +9,22 @@ IHRC merges Web3, loyalty mechanics, avatar identity, and Reflective Intelligenc
 
 
 📄 Available Public Whitepapers
-
+ See - CODES
 These whitepapers are now available to the public as part of our open ecosystem initiative:
 
-- 🌀 [IHodlLife Rewards Chain - Public Whitepaper](./IHRC_Public_Whitepaper.pdf)  
+- 🌀 IHodlLife Rewards Chain - Public Whitepaper  
   An overview of the SMXD chain architecture, Proof of Loyalty, and the IHRC vision.
 
-- 🌐 [Distributed Resonant Technology (DRT) - Public Whitepaper](./DRT_Public_Whitepaper.pdf)  
+- 🌐 Distributed Resonant Technology (DRT) - Public Whitepaper 
   How resonance replaces computation to form a new foundation of blockchain consensus.
 
-- 🧠 [Beyond AI - Public Whitepaper](./Beyond_AI_Public_Whitepaper.pdf)  
+- 🧠 Beyond AI - Public Whitepaper  
   Exploring ORIC, SRIL, and the spiritual intelligence powering the future of conscious technology.
 
-- 🛠 [Build2Earn - Public Whitepaper](./Build2Earn_Public_Whitepaper.pdf)  
+- 🛠 Build2Earn - Public Whitepaper - coming June 13th 
   A modular incentive framework rewarding developers, creators, and innovators within IHRC.
 
-- 👤 [NFT Avatar Identity Engine - Public Whitepaper](./Avatar_Engine_Public_Whitepaper.pdf)  
+- 👤 NFT Avatar Identity Engine - Public Whitepaper - Coming June June 16th
   The future of soulbound avatars, trust scores, and Proof of Presence (PoP) on-chain.
 
 📥 More will be released as the ecosystem evolves.  
