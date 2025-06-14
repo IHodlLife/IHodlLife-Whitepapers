@@ -21,7 +21,7 @@ These whitepapers are now available to the public as part of our open ecosystem 
 - 🧠 Beyond AI - Public Whitepaper  
   Exploring ORIC, SRIL, and the spiritual intelligence powering the future of conscious technology.
 
-- 🛠 Build2Earn - Public Whitepaper - coming June 13th 
+- 🛠 Build2Earn - Public Whitepaper
   A modular incentive framework rewarding developers, creators, and innovators within IHRC.
 
 - 👤 NFT Avatar Identity Engine - Public Whitepaper - Coming June June 16th
